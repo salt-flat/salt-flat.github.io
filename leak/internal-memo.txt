@@ -1,0 +1,20 @@
+KUUKIVI BIO LABS — internal memo (do not distribute)
+====================================================
+
+From:    lab ops
+To:      sample intake
+Date:    2026-08-19
+Subject: intake backlog / project JALG
+
+The JALG intake round is behind. Two racks are full and the cold room
+log has not been updated since the 14th.
+
+Actions:
+ - finish intake for KBL-2026-0014 and KBL-2026-0017 before Friday
+ - move the overflow to rack-c, do not use the freezer shelf
+ - re-test the batch from site B, the first readout looked contaminated
+ - keep the plates labelled, do not rely on the LIMS entry alone
+
+Case reference for the audit trail: FLAG{jalg_intake_0a33}
+
+Keep this off the shared drive until the audit closes.
